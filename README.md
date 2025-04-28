@@ -57,9 +57,7 @@
 
 
 ## 📊 GitHub Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SasankaDinith&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) &nbsp;&nbsp; &nbsp;&nbsp;![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SasankaDinith&show_icons=true&theme=radical)
-
- <br/>![SasankaDinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SasankaDinith&theme=blue-green&hide_border=false)
+![SasankaDinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&layout=compact) &nbsp; &nbsp; &nbsp;![SasankaDinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SasankaDinith&theme=nightowl&hide_border=false) <br/> <br/>![SasankaDinith's Stats](https://github-readme-stats.vercel.app/api?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
 ## 🏆 Github trophies : 
 <p align="left">
