@@ -91,9 +91,7 @@
 
 ### 📊 GitHub Stats:
 
-![sasankadinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&layout=compact)
-
-![sasankadinith's Stats](https://github-readme-stats.vercel.app/api?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
+![sasankadinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&layout=compact)![sasankadinith's Stats](https://github-readme-stats.vercel.app/api?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
 ![sasankadinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasankadinith&theme=blueberry&hide_border=false)
 
 <h3>Github trophies:</h3>
