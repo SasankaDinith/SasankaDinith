@@ -28,7 +28,7 @@
 
 - 💬 Ask me about **Java, ReactJS, MSSQL**
 
-- 📫 How to reach me **sasankaranawaka@gmail.com**
+- 📫 How to reach me **sasankaranawaka0@gmail.com**
   
 
 
@@ -91,8 +91,8 @@
 
 ### 📊 GitHub Stats:
 
-![sasankadinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&layout=compact) &nbsp &nbsp &nbsp &nbsp ![sasankadinith's Stats](https://github-readme-stats.vercel.app/api?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&count_private=true)
-![sasankadinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasankadinith&theme=blueberry&hide_border=false)
+![sasankadinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&layout=compact) &nbsp;&nbsp;&nbsp;  &nbsp;&nbsp; ![sasankadinith's Stats](https://github-readme-stats.vercel.app/api?username=sasankadinith&theme=blueberry&show_icons=true&hide_border=false&count_private=true) 
+<br/> <br/>![sasankadinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sasankadinith&theme=blueberry&hide_border=false)
 
 <h3>Github trophies:</h3>
 <p align="left">
