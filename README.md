@@ -1,8 +1,9 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Sasanka Ranawaka</h1>
+
 <h3 align="center">Passionate IT Student | Learning, Growing, and Conquering New Tech Challenges Every Day.</h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cybersecurity+Enthusiast;Frontend+Developer;Active+Learner;Blogger;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cybersecurity+Enthusiast;Active+Learner;Blogger;">
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
@@ -39,12 +40,13 @@
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!--h1 without bottom border-->
 <div id="user-content-toc">
   <ul >
-    <summary><h2 style="display: inline-block">🚀 Technologies That I Know <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px></h2></summary>
+   
+ ## 🚀 Technologies That I Know <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width=32px>
   </ul>
 </div>
 
@@ -58,9 +60,6 @@
 
 
 
-
-
-
 ## 📊 GitHub Stats :
 ![SasankaDinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&layout=compact) &nbsp; &nbsp; &nbsp;![SasankaDinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SasankaDinith&theme=nightowl&hide_border=false) <br/> <br/>![SasankaDinith's Stats](https://github-readme-stats.vercel.app/api?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
 
@@ -68,6 +67,16 @@
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SasankaDinith&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="SasankaDinith's trophies" />
 </p>
+
+## 📝 Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+- [Bash Scripting Basics: Automate Your Linux Tasks](https://blog.devopsacademy.online/bash-scripting-basics-automate-your-linux-tasks/)
+- [Mastering Git: A Beginner-Friendly Guide to Version Control](https://medium.com/@Sasanka-IctInsights/mastering-git-a-beginner-friendly-guide-to-version-control-b3999dde077d)
+- [A List of Basic Commands I Use in the Linux Terminal](https://medium.com/@Sasanka-IctInsights/a-list-of-basic-commands-i-use-in-the-linux-terminal-part-01-4e8fb7f1ea93)
+- [Introduction to Node JS Architecture and Its Workflow](https://medium.com/@Sasanka-IctInsights/introduction-to-node-js-architecture-eb2c09128d11)
+- [Learning Basics of Cisco Packet Tracer](https://medium.com/@Sasanka-IctInsights/learning-basics-of-cisco-packet-tracer-e82d9626137a)
+<!-- BLOG-POST-LIST:END -->
 
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=SasankaDinith&limit=5&theme=dark&combine_all_yearly_contributions=true) <br>
@@ -87,7 +96,6 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/SasankaRana"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="SasankaRana" /></a></p><br><br>
-
 
 
 
