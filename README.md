@@ -1,4 +1,4 @@
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+ ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/main/SAsanka%20Ranawaka.png?raw=true)
 <h1 align="center">Hi 👋, I'm Sasanka Ranawaka</h1>
 
 <h3 align="center">Passionate IT Student | Learning, Growing, and Conquering New Tech Challenges Every Day.</h3>
