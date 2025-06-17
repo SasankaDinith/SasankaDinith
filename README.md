@@ -18,13 +18,13 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Frontend web development, Network designs and Cybersecurity**
+- 🌱 I’m currently learning **Network Engineering, Cloud (AWS) & DevOps Practices**
 
 - 🧑‍🎓 I’m an Undergraduate at **Faculty of Technology, University of Sri Jayewardenepura**
 
 - 🧑‍🎓 I'm stuying at **BICT(Hons) Information and Communication Technology specilization on Network Technology**
 
-- 💬 Ask me about **Java, ReactJS, MSSQL**
+- 💬 Ask me about **Java, DevOps, MSSQL**
 
 - 📫 How to reach me **sasankaranawaka0@gmail.com**
   
