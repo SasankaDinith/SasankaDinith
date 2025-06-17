@@ -3,7 +3,7 @@
 
 <h3 align="center">Passionate IT Student | Learning, Growing, and Conquering New Tech Challenges Every Day.</h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cybersecurity+Enthusiast;Active+Learner;Blogger;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cloud&DevOps+Enthusiast;Active+Learner;Blogger;">
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
