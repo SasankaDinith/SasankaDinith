@@ -18,8 +18,8 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning **Network Engineering, Cloud (AWS) & DevOps Practices**
-
+- 🌱 I am currently working in the 𝗖𝗹𝗼𝘂𝗱 𝗮𝗻𝗱 𝗗𝗲𝘃𝗢𝗽𝘀 𝗱𝗼𝗺𝗮𝗶𝗻 and focus on AWS cloud platform
+    
 - 🎓 I’m pursuing a 𝗕𝗮𝗰𝗵𝗲𝗹𝗼𝗿 𝗼𝗳 𝗜𝗻𝗳𝗼𝗿𝗺𝗮𝘁𝗶𝗼𝗻 𝗮𝗻𝗱 𝗖𝗼𝗺𝗺𝘂𝗻𝗶𝗰𝗮𝘁𝗶𝗼𝗻 𝗧𝗲𝗰𝗵𝗻𝗼𝗹𝗼𝗴𝘆 (𝗕𝗜𝗖𝗧-𝗛𝗼𝗻𝘀), specializing in Network Engineering, at the 𝗨𝗻𝗶𝘃𝗲𝗿𝘀𝗶𝘁𝘆 𝗼𝗳 𝗦𝗿𝗶 𝗝𝗮𝘆𝗲𝘄𝗮𝗿𝗱𝗲𝗻𝗲𝗽𝘂𝗿𝗮.
 
 - 📝 I continuously create and share technical blog articles on Medium, focusing on my areas of expertise including 𝗟𝗶𝗻𝘂𝘅, 𝗗𝗼𝗰𝗸𝗲𝗿, 𝗦𝘆𝘀𝘁𝗲𝗺 𝗔𝗱𝗺𝗶𝗻𝗶𝘀𝘁𝗿𝗮𝘁𝗶𝗼𝗻, 𝗖𝗜/𝗖𝗗, 𝗮𝗻𝗱 𝗡𝗲𝘁𝘄𝗼𝗿𝗸𝗶𝗻𝗴 𝗰𝗼𝗻𝗰𝗲𝗽𝘁𝘀.
