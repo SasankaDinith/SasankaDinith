@@ -1,5 +1,7 @@
- ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/71e9f30f93fe0c768f06d667560b02a1d18022f8/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Sasanka Ranawaka</h1>
+ 
+ ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/71e9f30f93fe0c768f06d667560b02a1d18022f8/github%20banner.png)
+
 
 <h3 align="center">Cloud & DevOps Enthusiast | 1x Aviatrix | Technical Writer & Blogger at CoDeKu Labs | CCNA | Linux | AWS | Docker | BICT Hons(UG)</h3>
 <p align='center'>
