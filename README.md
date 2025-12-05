@@ -72,6 +72,7 @@
 ## 📝 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Build Automated Jenkins CI/CD Pipeline with SonarQube, Docker GitHub Webhooks and AWS](https://sasankad101.medium.com/build-automated-jenkins-ci-cd-pipeline-with-sonarqube-docker-github-webhooks-and-aws-5f16b956b0a7)
 - [Bash Scripting Basics: Automate Your Linux Tasks](https://blog.devopsacademy.online/bash-scripting-basics-automate-your-linux-tasks/)
 - [Mastering Git: A Beginner-Friendly Guide to Version Control](https://medium.com/@Sasanka-IctInsights/mastering-git-a-beginner-friendly-guide-to-version-control-b3999dde077d)
 - [A List of Basic Commands I Use in the Linux Terminal](https://medium.com/@Sasanka-IctInsights/a-list-of-basic-commands-i-use-in-the-linux-terminal-part-01-4e8fb7f1ea93)
