@@ -3,7 +3,7 @@
  ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/71e9f30f93fe0c768f06d667560b02a1d18022f8/github%20banner.png)
 
 
-<h3 align="center">Cloud & DevOps Enthusiast | 1x Aviatrix | Technical Writer & Blogger at CoDeKu Labs | CCNA | Linux | AWS | Docker | BICT Hons(UG)</h3>
+<h3 align="center">Cloud & DevOps Enthusiast | 1x Aviatrix | Technical Writer & Blogger | CCNA | Linux | AWS | Docker | BICT Hons(UG)</h3>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cloud+Enthusiast;Active+Learner;Blogger;">
 </p>
