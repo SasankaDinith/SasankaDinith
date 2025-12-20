@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Sasanka Ranawaka</h1>
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
  ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/71e9f30f93fe0c768f06d667560b02a1d18022f8/github%20banner.png)
+
+ <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 
 <h3 align="center"> Cloud & DevOps Enthusiast | 1x Aviatrix | Technical Writer & Blogger | CCNA | Linux | AWS | Docker | <br/> BICT Hons (UG)</h3>
