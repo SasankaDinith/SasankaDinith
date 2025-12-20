@@ -50,28 +50,30 @@
   </ul>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,bash,kubernetes,jenkins,git,github,githubactions,ansible,gitlab,nodejs,js,powershell,aws,azure,py,java,c,html,css,mysql,mongodb,nginx,gmail,react,arduino,pytorch,postman,ubuntu,vscode,php,kali,ps,linkedin,visualstudio,vim,androidstudio&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=linux,docker,bash,kubernetes,jenkins,git,github,ubuntu,githubactions,ansible,gitlab,aws,azure,nginx,py,nodejs,js,powershell,java,c,html,css,mysql,mongodb,postman,vscode,php,kali,ps,linkedin,visualstudio,vim,androidstudio,&perline=18)](https://skillicons.dev) 
 
 
 ## 🥇 Profile badges : 
 ### TryHackMe
 <img src="https://tryhackme-badges.s3.amazonaws.com/SDh4x0r.png" alt="Your Image Badge" />
 
-
-
+---
 
 
 ## 📊 GitHub Stats :
 ![SasankaDinith's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&layout=compact) &nbsp; &nbsp; &nbsp;![SasankaDinith's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SasankaDinith&theme=nightowl&hide_border=false) <br/> <br/>![SasankaDinith's Stats](https://github-readme-stats.vercel.app/api?username=SasankaDinith&theme=nightowl&show_icons=true&hide_border=false&count_private=true)
+
+---
 
 ## 🏆 Github trophies : 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=SasankaDinith&theme=radical&no-frame=false&no-bg=false&margin-w=4" alt="SasankaDinith's trophies" />
 </p>
 
-## 📝 Latest Blog Posts
+---
 
-<!-- BLOG-POST-LIST:START -->
+## 📝 MY Latest Blog Articles:
+
 - [Build Automated Jenkins CI/CD Pipeline with SonarQube, Docker GitHub Webhooks and AWS](https://sasankad101.medium.com/build-automated-jenkins-ci-cd-pipeline-with-sonarqube-docker-github-webhooks-and-aws-5f16b956b0a7)
 - [Bash Scripting Basics: Automate Your Linux Tasks](https://blog.devopsacademy.online/bash-scripting-basics-automate-your-linux-tasks/)
 - [Mastering Git: A Beginner-Friendly Guide to Version Control](https://medium.com/@Sasanka-IctInsights/mastering-git-a-beginner-friendly-guide-to-version-control-b3999dde077d)
@@ -80,8 +82,17 @@
 - [Learning Basics of Cisco Packet Tracer](https://medium.com/@Sasanka-IctInsights/learning-basics-of-cisco-packet-tracer-e82d9626137a)
 <!-- BLOG-POST-LIST:END -->
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SasankaDinith&limit=5&theme=dark&combine_all_yearly_contributions=true) <br>
+---
+
+## ✍️ Random Dev Quote:
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🔝 Top Contributed Repo:
+![](https://github-contributor-stats.vercel.app/api?username=SasankaDinith&limit=5&theme=radical&combine_all_yearly_contributions=true)
+
+---
 
 ## Connect with me:
 <p align="left">
@@ -92,12 +103,13 @@
 <a href="https://medium.com/@sasankaranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sasankaranawaka" height="30" width="40" /></a>
 </p>
 
+---
 
 ## 💰 You can help me by Donating:
 <p><a href="https://www.buymeacoffee.com/sasankad101"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="101" /></a></p><br><br>
 
 
-              
+  ---            
 
 <br/>
 
