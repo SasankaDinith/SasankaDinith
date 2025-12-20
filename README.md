@@ -52,6 +52,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=linux,docker,bash,kubernetes,jenkins,git,github,ubuntu,githubactions,ansible,gitlab,aws,azure,nginx,py,nodejs,js,powershell,java,c,html,css,mysql,mongodb,postman,vscode,php,kali,ps,linkedin,visualstudio,vim,androidstudio,&perline=18)](https://skillicons.dev) 
 
+---
 
 ## 🥇 Profile badges : 
 ### TryHackMe
