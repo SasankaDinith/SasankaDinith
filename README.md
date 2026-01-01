@@ -80,6 +80,7 @@
 
 ## 📝 MY Latest Blog Articles:
 
+- [Cross Cloud Site-to-Site VPN Connectivity between AWS and Microsoft Azure](https://sasankad101.medium.com/cross-cloud-site-to-site-vpn-connectivity-between-aws-and-microsoft-azure-1deb4b52e6fa)
 - [Build Automated Jenkins CI/CD Pipeline with SonarQube, Docker GitHub Webhooks and AWS](https://sasankad101.medium.com/build-automated-jenkins-ci-cd-pipeline-with-sonarqube-docker-github-webhooks-and-aws-5f16b956b0a7)
 - [Bash Scripting Basics: Automate Your Linux Tasks](https://blog.devopsacademy.online/bash-scripting-basics-automate-your-linux-tasks/)
 - [Mastering Git: A Beginner-Friendly Guide to Version Control](https://medium.com/@Sasanka-IctInsights/mastering-git-a-beginner-friendly-guide-to-version-control-b3999dde077d)
