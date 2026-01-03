@@ -8,13 +8,13 @@
 
 
 
-<h3 align="center"> Aspiring Cloud & DevOps Engineer | 1x Aviatrix | Technical Writer & Blogger | CCNA | Linux | AWS | Docker | <br/> BICT Hons (UG) @ USJP</h3>
+<h3 align="center"> Aspiring Cloud & DevOps Engineer | 1x Aviatrix | Technical Writer & Blogger | CCNA | Linux | AWS | <br/> Docker | BICT Hons(R) @ USJ</h3>
 <p align='center'>
-<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;Cloud+Enthusiast;Active+Learner;Blogger;">
+<img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;DevOps+and+Cloud+Enthusiast;Continuous+Learner;Technical+Blogger;Undergraduate+@+USJ">
 </p>
  <p align="center">
 <img src="https://img.shields.io/badge/Age-23-blue" />
-  <img src="https://img.shields.io/badge/Focus-Netwrok%20& Cloud (AWS)-brightgreen" />
+  <img src="https://img.shields.io/badge/Focus-DevOps%20& Cloud (AWS)-brightgreen" />
   <img src="https://img.shields.io/badge/Lives-Sri%20Lanka-success" />
   <img src="https://img.shields.io/badge/Languages-English%20%26%20Sinhala-brightgreen" />
   <img src="https://komarev.com/ghpvc/?username=SasankaDinith&label=Profile%20views&color=0e75b6&style=flat" alt="100rabhcsmc" /> </p>
