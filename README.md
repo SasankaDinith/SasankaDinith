@@ -90,17 +90,6 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
-
-## ✍️ Random Dev Quote:
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-## 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=SasankaDinith&limit=5&theme=radical&combine_all_yearly_contributions=true)
-
----
-
 ## Connect with me:
 <p align="left">
 <a href="https://twitter.com/sasankaranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sasankaranawaka" height="30" width="40" /></a>
