@@ -2,13 +2,13 @@
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
  
- ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/71e9f30f93fe0c768f06d667560b02a1d18022f8/github%20banner.png)
+ ![image url](https://github.com/SasankaDinith/SasankaDinith/blob/2cb18b0c03836f9c43f4eb830b02db5544b05849/Profile_banner.png)
 
  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 
 
-<h3 align="center"> Aspiring Cloud & DevOps Engineer | 1x Aviatrix | Technical Writer & Blogger | CCNA | Linux | AWS | <br/> Docker | BICT Hons(R) @ USJ</h3>
+<h3 align="center"> Intern DevOps Engineer | Cloud & DevOps Enthusiast | 1x Aviatrix | Technical Writer & Blogger | KCNA | Linux | AWS | Docker | Kubernetes | BICT Hons (UG)</h3>
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=30&center=true&vCenter=true&width=433&height=75&lines=I'm+Sasanka+Ranawaka;DevOps+and+Cloud+Enthusiast;Continuous+Learner;Technical+Blogger;Undergraduate+@+USJ">
 </p>
