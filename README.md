@@ -55,9 +55,25 @@
   </ul>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=linux,docker,bash,kubernetes,jenkins,git,github,ubuntu,githubactions,ansible,gitlab,aws,azure,nginx,py,nodejs,js,powershell,java,c,html,css,mysql,mongodb,postman,vscode,php,kali,ps,linkedin,visualstudio,vim,androidstudio,&perline=18)](https://skillicons.dev) 
+<table>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">DevOps & Cloud:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=linux,docker,git,ubuntu,bash,kubernetes,github,githubactions,jenkins,ansible,terraform,aws,azure,nginx,prometheus"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center;">Development:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,java,c,postman,php,vue,python,mysql,mongodb"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Other Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=photoshop,linkedin,visualstudio"/></td>
+    </tr>
+</table>
 
----
 
 ## 🥇 Profile badges : 
 ### TryHackMe
@@ -87,7 +103,7 @@
 - [A List of Basic Commands I Use in the Linux Terminal](https://medium.com/@Sasanka-IctInsights/a-list-of-basic-commands-i-use-in-the-linux-terminal-part-01-4e8fb7f1ea93)
 - [Introduction to Node JS Architecture and Its Workflow](https://medium.com/@Sasanka-IctInsights/introduction-to-node-js-architecture-eb2c09128d11)
 - [Learning Basics of Cisco Packet Tracer](https://medium.com/@Sasanka-IctInsights/learning-basics-of-cisco-packet-tracer-e82d9626137a)
-<!-- BLOG-POST-LIST:END -->
+
 
 ---
 ## Connect with me:
@@ -97,6 +113,8 @@
 <a href="https://fb.com/sasanka ranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sasanka ranawaka" height="30" width="40" /></a>
 <a href="https://hashnode.com/@sasanka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@sasanka" height="30" width="40" /></a>
 <a href="https://medium.com/@sasankaranawaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sasankaranawaka" height="30" width="40" /></a>
+
+ 
 </p>
 
 ---
